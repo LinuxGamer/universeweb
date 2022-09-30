@@ -1,14 +1,14 @@
 /* Style the header with a grey background and some padding */
 .header {
     overflow: hidden;
-    background-color: #f1f1f1;
+    background-color: #154d70;
     padding: 20px 10px;
   }
   
   /* Style the header links */
   .header a {
     float: left;
-    color: black;
+    color: #154d70;
     text-align: center;
     padding: 12px;
     text-decoration: none;
@@ -25,7 +25,7 @@
   
   /* Change the background color on mouse-over */
   .header a:hover {
-    background-color: #ddd;
+    background-color: #4f7091;
     color: black;
   }
   
